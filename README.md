@@ -89,6 +89,5 @@ HTTP `404` 表示目录中查不到这个机构编码。错误响应示例如下
 
 ## 使用示例
 
-> 使用 api-docs-zh 技能，根据项目代码编写获取机构信息的中文接口文档，说明入参从哪里取、响应怎么看、查不到机构时怎么处理。
-
+> 使用 api-docs-zh 技能，根据项目代码编写获取机构信息的中文接口文档，
 [查看 Markdown 接口文档模板](skills/api-docs-zh/references/outline.md) · [查看其他联调文档示例](skills/api-docs-zh/references/examples.md)
