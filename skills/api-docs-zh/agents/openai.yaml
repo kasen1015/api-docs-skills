@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文接口文档编写"
+  short_description: "依据项目实现或第三方协议编写可直接用于联调的中文接口文档"
+  default_prompt: "用 $api-docs-zh 按当前实现编写中文 Markdown 对接文档，说明参数来源、成功判断和失败处理。"
